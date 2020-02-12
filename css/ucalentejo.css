@@ -1,0 +1,65 @@
+:root {
+  --text-colour: #ffffff;
+  --background-colour: #008ccf;
+  --nth-cell-colour: #0278af;
+  --hover-cell-colour: #005e8a;
+  --table-colour: #ffffff;
+}
+
+html {
+  background-color: var(--background-colour);
+  color: var(--text-colour);
+  font-family: "TruenoLight";
+}
+html, body {
+  height: 100%;
+}
+a {
+  color: var(--text-colour);
+}
+
+.title {
+  text-transform: uppercase;
+  text-align: center;
+}
+
+.result h2 {
+  text-align: center;
+}
+
+.result th,
+td {
+  border: 1px solid var(--table-colour);
+  padding: 8px;
+  text-align: left;
+}
+
+.result table {
+  display: inline-block;
+}
+
+.result tr:nth-child(even) {
+  background-color: var(--nth-cell-colour)
+}
+
+.result tr:hover {
+  background-color: var(--hover-cell-colour)
+}
+
+.result th {
+  padding-top: 12px;
+  padding-bottom: 12px;
+  background-color: var(--hover-cell-colour);
+}
+
+.result-container {
+  display: table-cell;
+  text-align: center;
+  vertical-align: middle;
+}
+
+.results {
+  display: table;
+  width: 100%;
+  justify-content: center;
+}

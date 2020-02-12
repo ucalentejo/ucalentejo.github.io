@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>result on União Ciclismo do Alentejo</title>
+    <link>https://ucalentejo.github.io/categories/result/</link>
+    <description>Recent content in result on União Ciclismo do Alentejo</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>pt-pt</language>
+    <lastBuildDate>Sun, 02 Feb 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://ucalentejo.github.io/categories/result/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Almôdovar Cycling Challenge 2020</title>
+      <link>https://ucalentejo.github.io/results/almodovar-cycling-challenge-2020/</link>
+      <pubDate>Sun, 02 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://ucalentejo.github.io/results/almodovar-cycling-challenge-2020/</guid>
+      <description>Challenge Mediofondo    Atleta Escalão R. Geral R. Escalão     João Santos M40 30 10   Manuel Tiago Pereira M30 51 26    Challenge Minifondo    Atleta Escalão R. Geral R. Escalão     Pedro Matias M30 19 7    </description>
+    </item>
+    
+  </channel>
+</rss>
